@@ -53,3 +53,4 @@ F:\c# project\bin\Debug\System.Buffers.xml
 F:\c# project\bin\Debug\System.Memory.xml
 F:\c# project\bin\Debug\System.Numerics.Vectors.xml
 F:\c# project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\c# project\obj\Debug\Hospital_management_system.Form2.resources

@@ -28,7 +28,8 @@ namespace Hospital_management_system
 
         private void btnChart_Click(object sender, EventArgs e)
         {
-
+            Form form2 = new Form2();
+            form2.Show();
         }
 
         private void panel1_Paint(object sender, PaintEventArgs e)
@@ -112,7 +113,7 @@ namespace Hospital_management_system
 
         private void showButton_Click(object sender, EventArgs e)
         {
-       
+         
         }
 
         private void listView1_SelectedIndexChanged(object sender, EventArgs e)
