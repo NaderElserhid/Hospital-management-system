@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "F:\\c# project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|f:\\c# project\\hospital management page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|solutionrelative:hospital management page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|f:\\c# project\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|f:\\c# project\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|f:\\c# project\\hospital management page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|solutionrelative:hospital management page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|f:\\c# project\\hospital management page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1089,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,20 +86,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "F:\\c# project\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "F:\\c# project\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:20:27.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Hospital Management page.cs",
               "DocumentMoniker": "F:\\c# project\\Hospital Management page.cs",
               "RelativeDocumentMoniker": "Hospital Management page.cs",
               "ToolTip": "F:\\c# project\\Hospital Management page.cs*",
               "RelativeToolTip": "Hospital Management page.cs*",
-              "ViewState": "AgIAADgAAAAAAAAAAAAiwEIAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAuwEIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T13:03:59.133Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Hospital Management page.cs [Design]",
               "DocumentMoniker": "F:\\c# project\\Hospital Management page.cs",
               "RelativeDocumentMoniker": "Hospital Management page.cs",
@@ -111,8 +128,8 @@
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "F:\\c# project\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "F:\\c# project\\Form2.cs [Design]*",
-              "RelativeToolTip": "Form2.cs [Design]*",
+              "ToolTip": "F:\\c# project\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T13:03:13.886Z",
               "EditorCaption": " [Design]"
