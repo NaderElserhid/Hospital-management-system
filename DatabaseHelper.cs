@@ -6,7 +6,7 @@ namespace Hospital_management_system
 {
     public class DatabaseHelper
     {
-        private string connectionString;
+        static string connectionString;
 
         public DatabaseHelper(string dbPath)
         {
@@ -139,6 +139,11 @@ namespace Hospital_management_system
                     }
                 }
             }
+        }
+    
+        public string getConnectionString()
+        {
+            return connectionString;
         }
     }
 }

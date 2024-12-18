@@ -57,7 +57,15 @@
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.showButton = new System.Windows.Forms.Button();
+            this.name = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.surename = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.phone = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.gender = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.age = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.disease = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.registrationDate = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.id = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.btnSave = new System.Windows.Forms.Button();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel1.SuspendLayout();
@@ -91,6 +99,7 @@
             this.btnLogeOut.TabIndex = 3;
             this.btnLogeOut.Text = "log Out";
             this.btnLogeOut.UseVisualStyleBackColor = false;
+            this.btnLogeOut.Click += new System.EventHandler(this.btnLogeOut_Click);
             // 
             // btnRegistration
             // 
@@ -170,7 +179,7 @@
             // 
             // panel1
             // 
-            this.panel1.Controls.Add(this.showButton);
+            this.panel1.Controls.Add(this.btnSave);
             this.panel1.Controls.Add(this.listView1);
             this.panel1.Controls.Add(this.btnEdit);
             this.panel1.Controls.Add(this.btnDelete);
@@ -200,12 +209,24 @@
             // 
             // listView1
             // 
+            this.listView1.Alignment = System.Windows.Forms.ListViewAlignment.Default;
+            this.listView1.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
+            this.id,
+            this.name,
+            this.surename,
+            this.phone,
+            this.gender,
+            this.age,
+            this.disease,
+            this.registrationDate});
             this.listView1.HideSelection = false;
             this.listView1.Location = new System.Drawing.Point(12, 424);
             this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(872, 207);
+            this.listView1.Size = new System.Drawing.Size(879, 207);
             this.listView1.TabIndex = 16;
             this.listView1.UseCompatibleStateImageBehavior = false;
+            this.listView1.View = System.Windows.Forms.View.Details;
+            this.listView1.SelectedIndexChanged += new System.EventHandler(this.listView1_SelectedIndexChanged);
             // 
             // btnEdit
             // 
@@ -218,6 +239,7 @@
             this.btnEdit.TabIndex = 15;
             this.btnEdit.Text = "Edit";
             this.btnEdit.UseVisualStyleBackColor = false;
+            this.btnEdit.Click += new System.EventHandler(this.btnEdit_Click);
             // 
             // btnDelete
             // 
@@ -230,6 +252,7 @@
             this.btnDelete.TabIndex = 15;
             this.btnDelete.Text = "Delete";
             this.btnDelete.UseVisualStyleBackColor = false;
+            this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
             // 
             // btnAdd
             // 
@@ -371,18 +394,59 @@
             this.label3.TabIndex = 2;
             this.label3.Text = "Last Name";
             // 
-            // showButton
+            // name
             // 
-            this.showButton.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(33)))), ((int)(((byte)(134)))), ((int)(((byte)(235)))));
-            this.showButton.Font = new System.Drawing.Font("Leelawadee", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.showButton.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.showButton.Location = new System.Drawing.Point(712, 358);
-            this.showButton.Name = "showButton";
-            this.showButton.Size = new System.Drawing.Size(130, 40);
-            this.showButton.TabIndex = 17;
-            this.showButton.Text = "show data";
-            this.showButton.UseVisualStyleBackColor = false;
-            this.showButton.Click += new System.EventHandler(this.showButton_Click);
+            this.name.Text = "name";
+            this.name.Width = 132;
+            // 
+            // surename
+            // 
+            this.surename.Text = "surename";
+            this.surename.Width = 111;
+            // 
+            // phone
+            // 
+            this.phone.Text = "phone";
+            this.phone.Width = 121;
+            // 
+            // gender
+            // 
+            this.gender.Text = "gender";
+            this.gender.Width = 162;
+            // 
+            // age
+            // 
+            this.age.Text = "age";
+            this.age.Width = 126;
+            // 
+            // disease
+            // 
+            this.disease.Text = "disease";
+            this.disease.Width = 215;
+            // 
+            // registrationDate
+            // 
+            this.registrationDate.Text = "registrationDate";
+            this.registrationDate.Width = 229;
+            // 
+            // id
+            // 
+            this.id.Text = "id";
+            this.id.Width = 113;
+            // 
+            // btnSave
+            // 
+            this.btnSave.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(218)))), ((int)(((byte)(110)))));
+            this.btnSave.Font = new System.Drawing.Font("Leelawadee", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSave.ForeColor = System.Drawing.SystemColors.ButtonFace;
+            this.btnSave.Location = new System.Drawing.Point(544, 358);
+            this.btnSave.Name = "btnSave";
+            this.btnSave.Size = new System.Drawing.Size(130, 40);
+            this.btnSave.TabIndex = 17;
+            this.btnSave.Text = "Save";
+            this.btnSave.UseVisualStyleBackColor = false;
+            this.btnSave.Visible = false;
+            this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
             // 
             // Hospital_Management_page
             // 
@@ -432,6 +496,14 @@
         private System.Windows.Forms.Button btnDelete;
         private System.Windows.Forms.Button btnEdit;
         private System.Windows.Forms.ListView listView1;
-        private System.Windows.Forms.Button showButton;
+        private System.Windows.Forms.ColumnHeader name;
+        private System.Windows.Forms.ColumnHeader surename;
+        private System.Windows.Forms.ColumnHeader phone;
+        private System.Windows.Forms.ColumnHeader gender;
+        private System.Windows.Forms.ColumnHeader age;
+        private System.Windows.Forms.ColumnHeader disease;
+        private System.Windows.Forms.ColumnHeader registrationDate;
+        private System.Windows.Forms.ColumnHeader id;
+        private System.Windows.Forms.Button btnSave;
     }
 }

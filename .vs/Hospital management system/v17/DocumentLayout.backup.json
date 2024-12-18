@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|solutionrelative:hospital management page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|f:\\c# project\\hospital management page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|F:\\c# project\\hospital management page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|solutionrelative:hospital management page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|f:\\c# project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|F:\\c# project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|F:\\c# project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|f:\\c# project\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|solutionrelative:databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|f:\\c# project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,21 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1089,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 16,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "F:\\c# project\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "F:\\c# project\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T05:38:36.509Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -103,13 +90,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "F:\\c# project\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DatabaseHelper.cs",
+              "ToolTip": "F:\\c# project\\DatabaseHelper.cs",
+              "RelativeToolTip": "DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:40:43.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\c# project\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\c# project\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:38:36.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Hospital Management page.cs",
               "DocumentMoniker": "F:\\c# project\\Hospital Management page.cs",
               "RelativeDocumentMoniker": "Hospital Management page.cs",
               "ToolTip": "F:\\c# project\\Hospital Management page.cs",
               "RelativeToolTip": "Hospital Management page.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAqwIEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACgBAAAAAAAAAAAWwP0AAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T05:57:58.548Z",
               "EditorCaption": ""
@@ -129,19 +142,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DatabaseHelper.cs",
-              "DocumentMoniker": "F:\\c# project\\DatabaseHelper.cs",
-              "RelativeDocumentMoniker": "DatabaseHelper.cs",
-              "ToolTip": "F:\\c# project\\DatabaseHelper.cs",
-              "RelativeToolTip": "DatabaseHelper.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAIwIQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T05:39:01.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "F:\\c# project\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
