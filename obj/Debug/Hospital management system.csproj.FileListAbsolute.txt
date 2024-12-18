@@ -19,3 +19,37 @@ C:\Users\nadir\OneDrive\Desktop\C#\Hospital management system\bin\Debug\EntityFr
 C:\Users\nadir\OneDrive\Desktop\C#\Hospital management system\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\nadir\OneDrive\Desktop\C#\Hospital management system\bin\Debug\System.Data.SQLite.xml
 C:\Users\nadir\OneDrive\Desktop\C#\Hospital management system\obj\Debug\Hospital.B9D029AE.Up2Date
+F:\c# project\bin\Debug\Hospital management system.exe.config
+F:\c# project\bin\Debug\Hospital management system.exe
+F:\c# project\bin\Debug\Hospital management system.pdb
+F:\c# project\bin\Debug\EntityFramework.dll
+F:\c# project\bin\Debug\EntityFramework.SqlServer.dll
+F:\c# project\bin\Debug\System.Data.SQLite.dll
+F:\c# project\bin\Debug\System.Data.SQLite.EF6.dll
+F:\c# project\bin\Debug\System.Data.SQLite.Linq.dll
+F:\c# project\bin\Debug\EntityFramework.xml
+F:\c# project\bin\Debug\EntityFramework.SqlServer.xml
+F:\c# project\bin\Debug\System.Data.SQLite.xml
+F:\c# project\obj\Debug\Hospital management system.csproj.AssemblyReference.cache
+F:\c# project\obj\Debug\Hospital_management_system.LogInPage.resources
+F:\c# project\obj\Debug\Hospital_management_system.Hospital_Management_page.resources
+F:\c# project\obj\Debug\Hospital_management_system.PrograssParPage.resources
+F:\c# project\obj\Debug\Hospital_management_system.Properties.Resources.resources
+F:\c# project\obj\Debug\Hospital management system.csproj.GenerateResource.cache
+F:\c# project\obj\Debug\Hospital management system.csproj.CoreCompileInputs.cache
+F:\c# project\obj\Debug\Hospital.B9D029AE.Up2Date
+F:\c# project\obj\Debug\Hospital management system.exe
+F:\c# project\obj\Debug\Hospital management system.pdb
+F:\c# project\bin\Debug\Microsoft.Data.Sqlite.dll
+F:\c# project\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+F:\c# project\bin\Debug\SQLitePCLRaw.core.dll
+F:\c# project\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\c# project\bin\Debug\System.Buffers.dll
+F:\c# project\bin\Debug\System.Memory.dll
+F:\c# project\bin\Debug\System.Numerics.Vectors.dll
+F:\c# project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\c# project\bin\Debug\Microsoft.Data.Sqlite.xml
+F:\c# project\bin\Debug\System.Buffers.xml
+F:\c# project\bin\Debug\System.Memory.xml
+F:\c# project\bin\Debug\System.Numerics.Vectors.xml
+F:\c# project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml

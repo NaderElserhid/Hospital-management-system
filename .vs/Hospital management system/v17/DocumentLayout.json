@@ -1,34 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nadir\\OneDrive\\Desktop\\C#\\Hospital management system\\",
+  "WorkspaceRootPath": "F:\\c# project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|C:\\Users\\nadir\\OneDrive\\Desktop\\C#\\Hospital management system\\hospital management page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|solutionrelative:hospital management page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|C:\\Users\\nadir\\OneDrive\\Desktop\\C#\\Hospital management system\\hospital management page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|f:\\c# project\\hospital management page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|solutionrelative:hospital management page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|C:\\Users\\nadir\\OneDrive\\Desktop\\C#\\Hospital management system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|f:\\c# project\\hospital management page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|solutionrelative:hospital management page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|f:\\c# project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|C:\\Users\\nadir\\OneDrive\\Desktop\\C#\\Hospital management system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|f:\\c# project\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|solutionrelative:databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|f:\\c# project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|C:\\Users\\nadir\\OneDrive\\Desktop\\C#\\Hospital management system\\prograssparpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|solutionrelative:prograssparpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|c:\\users\\nadir\\onedrive\\desktop\\c#\\hospital management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|C:\\Users\\nadir\\OneDrive\\Desktop\\C#\\Hospital management system\\prograssparpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5A8F3A8-E840-4E97-BC34-9881EEEC81AB}|Hospital management system.csproj|solutionrelative:prograssparpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,21 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1089,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 15,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\nadir\\OneDrive\\Desktop\\C#\\Hospital management system\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\nadir\\OneDrive\\Desktop\\C#\\Hospital management system\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAADwvx0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T14:06:28.595Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
@@ -108,77 +90,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nadir\\OneDrive\\Desktop\\C#\\Hospital management system\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\nadir\\OneDrive\\Desktop\\C#\\Hospital management system\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAswBIAAAApAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\c# project\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\c# project\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T18:08:56.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Hospital Management page.cs",
-              "DocumentMoniker": "C:\\Users\\nadir\\OneDrive\\Desktop\\C#\\Hospital management system\\Hospital Management page.cs",
-              "RelativeDocumentMoniker": "Hospital Management page.cs",
-              "ToolTip": "C:\\Users\\nadir\\OneDrive\\Desktop\\C#\\Hospital management system\\Hospital Management page.cs",
-              "RelativeToolTip": "Hospital Management page.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T17:45:06.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PrograssParPage.cs",
-              "DocumentMoniker": "C:\\Users\\nadir\\OneDrive\\Desktop\\C#\\Hospital management system\\PrograssParPage.cs",
-              "RelativeDocumentMoniker": "PrograssParPage.cs",
-              "ToolTip": "C:\\Users\\nadir\\OneDrive\\Desktop\\C#\\Hospital management system\\PrograssParPage.cs",
-              "RelativeToolTip": "PrograssParPage.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T15:32:57.216Z",
+              "WhenOpened": "2024-12-18T05:38:36.509Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Hospital Management page.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\nadir\\OneDrive\\Desktop\\C#\\Hospital management system\\Hospital Management page.cs",
+              "Title": "Hospital Management page.cs",
+              "DocumentMoniker": "F:\\c# project\\Hospital Management page.cs",
               "RelativeDocumentMoniker": "Hospital Management page.cs",
-              "ToolTip": "C:\\Users\\nadir\\OneDrive\\Desktop\\C#\\Hospital management system\\Hospital Management page.cs [Design]",
-              "RelativeToolTip": "Hospital Management page.cs [Design]",
+              "ToolTip": "F:\\c# project\\Hospital Management page.cs",
+              "RelativeToolTip": "Hospital Management page.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAiwHUAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T15:45:58.957Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-18T05:57:58.548Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PrograssParPage.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\nadir\\OneDrive\\Desktop\\C#\\Hospital management system\\PrograssParPage.cs",
-              "RelativeDocumentMoniker": "PrograssParPage.cs",
-              "ToolTip": "C:\\Users\\nadir\\OneDrive\\Desktop\\C#\\Hospital management system\\PrograssParPage.cs [Design]",
-              "RelativeToolTip": "PrograssParPage.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "Hospital Management page.cs [Design]",
+              "DocumentMoniker": "F:\\c# project\\Hospital Management page.cs",
+              "RelativeDocumentMoniker": "Hospital Management page.cs",
+              "ToolTip": "F:\\c# project\\Hospital Management page.cs [Design]",
+              "RelativeToolTip": "Hospital Management page.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T14:55:46.117Z",
+              "WhenOpened": "2024-12-18T05:57:55.953Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "F:\\c# project\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DatabaseHelper.cs",
+              "ToolTip": "F:\\c# project\\DatabaseHelper.cs",
+              "RelativeToolTip": "DatabaseHelper.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwIQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:39:01.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\nadir\\OneDrive\\Desktop\\C#\\Hospital management system\\Form1.cs",
+              "DocumentMoniker": "F:\\c# project\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\nadir\\OneDrive\\Desktop\\C#\\Hospital management system\\Form1.cs [Design]",
+              "ToolTip": "F:\\c# project\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T13:55:49.144Z",
+              "WhenOpened": "2024-12-18T05:38:34.735Z",
               "EditorCaption": " [Design]"
             }
           ]

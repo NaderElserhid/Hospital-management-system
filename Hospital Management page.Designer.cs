@@ -57,6 +57,7 @@
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
+            this.showButton = new System.Windows.Forms.Button();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel1.SuspendLayout();
@@ -169,6 +170,7 @@
             // 
             // panel1
             // 
+            this.panel1.Controls.Add(this.showButton);
             this.panel1.Controls.Add(this.listView1);
             this.panel1.Controls.Add(this.btnEdit);
             this.panel1.Controls.Add(this.btnDelete);
@@ -194,6 +196,7 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(897, 641);
             this.panel1.TabIndex = 3;
+            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
             // listView1
             // 
@@ -239,13 +242,14 @@
             this.btnAdd.TabIndex = 15;
             this.btnAdd.Text = "Add";
             this.btnAdd.UseVisualStyleBackColor = false;
+            this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
             // 
             // maskedTextBoxRegistrationDate
             // 
             this.maskedTextBoxRegistrationDate.Location = new System.Drawing.Point(639, 281);
             this.maskedTextBoxRegistrationDate.Mask = "00/00/0000";
             this.maskedTextBoxRegistrationDate.Name = "maskedTextBoxRegistrationDate";
-            this.maskedTextBoxRegistrationDate.Size = new System.Drawing.Size(114, 21);
+            this.maskedTextBoxRegistrationDate.Size = new System.Drawing.Size(114, 24);
             this.maskedTextBoxRegistrationDate.TabIndex = 14;
             this.maskedTextBoxRegistrationDate.ValidatingType = typeof(System.DateTime);
             // 
@@ -258,7 +262,7 @@
             "others"});
             this.comboBoxGender.Location = new System.Drawing.Point(639, 127);
             this.comboBoxGender.Name = "comboBoxGender";
-            this.comboBoxGender.Size = new System.Drawing.Size(114, 22);
+            this.comboBoxGender.Size = new System.Drawing.Size(114, 24);
             this.comboBoxGender.TabIndex = 13;
             // 
             // maskedTextBoxPhoneNumber
@@ -266,42 +270,42 @@
             this.maskedTextBoxPhoneNumber.Location = new System.Drawing.Point(186, 281);
             this.maskedTextBoxPhoneNumber.Mask = "(999) 000-0000";
             this.maskedTextBoxPhoneNumber.Name = "maskedTextBoxPhoneNumber";
-            this.maskedTextBoxPhoneNumber.Size = new System.Drawing.Size(114, 21);
+            this.maskedTextBoxPhoneNumber.Size = new System.Drawing.Size(114, 24);
             this.maskedTextBoxPhoneNumber.TabIndex = 12;
             // 
             // textBoxDisease
             // 
             this.textBoxDisease.Location = new System.Drawing.Point(639, 231);
             this.textBoxDisease.Name = "textBoxDisease";
-            this.textBoxDisease.Size = new System.Drawing.Size(114, 21);
+            this.textBoxDisease.Size = new System.Drawing.Size(114, 24);
             this.textBoxDisease.TabIndex = 11;
             // 
             // textBoxAge
             // 
             this.textBoxAge.Location = new System.Drawing.Point(639, 179);
             this.textBoxAge.Name = "textBoxAge";
-            this.textBoxAge.Size = new System.Drawing.Size(114, 21);
+            this.textBoxAge.Size = new System.Drawing.Size(114, 24);
             this.textBoxAge.TabIndex = 10;
             // 
             // textBoxLastName
             // 
             this.textBoxLastName.Location = new System.Drawing.Point(186, 231);
             this.textBoxLastName.Name = "textBoxLastName";
-            this.textBoxLastName.Size = new System.Drawing.Size(114, 21);
+            this.textBoxLastName.Size = new System.Drawing.Size(114, 24);
             this.textBoxLastName.TabIndex = 8;
             // 
             // textBoxFirstName
             // 
             this.textBoxFirstName.Location = new System.Drawing.Point(186, 177);
             this.textBoxFirstName.Name = "textBoxFirstName";
-            this.textBoxFirstName.Size = new System.Drawing.Size(114, 21);
+            this.textBoxFirstName.Size = new System.Drawing.Size(114, 24);
             this.textBoxFirstName.TabIndex = 7;
             // 
             // textBoxIDnumber
             // 
             this.textBoxIDnumber.Location = new System.Drawing.Point(186, 139);
             this.textBoxIDnumber.Name = "textBoxIDnumber";
-            this.textBoxIDnumber.Size = new System.Drawing.Size(114, 21);
+            this.textBoxIDnumber.Size = new System.Drawing.Size(114, 24);
             this.textBoxIDnumber.TabIndex = 7;
             // 
             // label9
@@ -367,9 +371,22 @@
             this.label3.TabIndex = 2;
             this.label3.Text = "Last Name";
             // 
+            // showButton
+            // 
+            this.showButton.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(33)))), ((int)(((byte)(134)))), ((int)(((byte)(235)))));
+            this.showButton.Font = new System.Drawing.Font("Leelawadee", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.showButton.ForeColor = System.Drawing.SystemColors.ButtonFace;
+            this.showButton.Location = new System.Drawing.Point(712, 358);
+            this.showButton.Name = "showButton";
+            this.showButton.Size = new System.Drawing.Size(130, 40);
+            this.showButton.TabIndex = 17;
+            this.showButton.Text = "show data";
+            this.showButton.UseVisualStyleBackColor = false;
+            this.showButton.Click += new System.EventHandler(this.showButton_Click);
+            // 
             // Hospital_Management_page
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 14F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1111, 644);
             this.Controls.Add(this.panel1);
@@ -415,5 +432,6 @@
         private System.Windows.Forms.Button btnDelete;
         private System.Windows.Forms.Button btnEdit;
         private System.Windows.Forms.ListView listView1;
+        private System.Windows.Forms.Button showButton;
     }
 }
