@@ -1,0 +1,21 @@
+C:\Users\nadir\OneDrive\Desktop\C#\Hospital management system\bin\Debug\Hospital management system.exe.config
+C:\Users\nadir\OneDrive\Desktop\C#\Hospital management system\bin\Debug\Hospital management system.exe
+C:\Users\nadir\OneDrive\Desktop\C#\Hospital management system\bin\Debug\Hospital management system.pdb
+C:\Users\nadir\OneDrive\Desktop\C#\Hospital management system\obj\Debug\Hospital management system.csproj.AssemblyReference.cache
+C:\Users\nadir\OneDrive\Desktop\C#\Hospital management system\obj\Debug\Hospital_management_system.LogInPage.resources
+C:\Users\nadir\OneDrive\Desktop\C#\Hospital management system\obj\Debug\Hospital_management_system.Properties.Resources.resources
+C:\Users\nadir\OneDrive\Desktop\C#\Hospital management system\obj\Debug\Hospital management system.csproj.GenerateResource.cache
+C:\Users\nadir\OneDrive\Desktop\C#\Hospital management system\obj\Debug\Hospital management system.csproj.CoreCompileInputs.cache
+C:\Users\nadir\OneDrive\Desktop\C#\Hospital management system\obj\Debug\Hospital management system.exe
+C:\Users\nadir\OneDrive\Desktop\C#\Hospital management system\obj\Debug\Hospital management system.pdb
+C:\Users\nadir\OneDrive\Desktop\C#\Hospital management system\obj\Debug\Hospital_management_system.PrograssParPage.resources
+C:\Users\nadir\OneDrive\Desktop\C#\Hospital management system\obj\Debug\Hospital_management_system.Hospital_Management_page.resources
+C:\Users\nadir\OneDrive\Desktop\C#\Hospital management system\bin\Debug\EntityFramework.dll
+C:\Users\nadir\OneDrive\Desktop\C#\Hospital management system\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nadir\OneDrive\Desktop\C#\Hospital management system\bin\Debug\System.Data.SQLite.dll
+C:\Users\nadir\OneDrive\Desktop\C#\Hospital management system\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\nadir\OneDrive\Desktop\C#\Hospital management system\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\nadir\OneDrive\Desktop\C#\Hospital management system\bin\Debug\EntityFramework.xml
+C:\Users\nadir\OneDrive\Desktop\C#\Hospital management system\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nadir\OneDrive\Desktop\C#\Hospital management system\bin\Debug\System.Data.SQLite.xml
+C:\Users\nadir\OneDrive\Desktop\C#\Hospital management system\obj\Debug\Hospital.B9D029AE.Up2Date
